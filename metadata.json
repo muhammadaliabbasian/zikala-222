@@ -1,0 +1,7 @@
+{
+  "name": "Zikala - Luxury Watches",
+  "description": "Time Defines Your Style. Premium watch store featuring Men's, Women's, Automatic, Chronograph, and Luxury timepieces with nationwide delivery in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
